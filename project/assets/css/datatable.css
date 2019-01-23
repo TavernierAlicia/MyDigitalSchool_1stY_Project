@@ -1,0 +1,61 @@
+#example_length {
+    float: left;
+    margin-bottom: 20px;
+}
+
+#example_filter label input,#DataTables_Table_0_wrapper label input,#DataTables_Table_1_filter label input,#DataTables_Table_2_wrapper label input,
+#example_filter label input,#DataTables_Table_3_wrapper label input,#DataTables_Table_4_filter label input,#DataTables_Table_5_wrapper label input{
+    border: 1px solid #ddd;
+    height: 30px;
+}
+
+thead {
+    background-color: #008ACF;
+    color: #fff;
+}
+
+#example_info,#DataTables_Table_0_info,#DataTables_Table_1_info,#DataTables_Table_2_info,#DataTables_Table_3_info,#DataTables_Table_4_info,#DataTables_Table_5_info {
+    float: left;
+}
+
+.dataTables_paginate {
+    margin-top: 30px;
+}
+
+.paginate_button {
+    background-color: #008ACF;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+.paginate_button:hover, .dataTables_paginate .current {
+    background-color: white;
+    border: 1px solid #005783;
+    color: #005783;
+}
+
+.dataTables_paginate .disabled {
+    background-color: #1db4ff;
+    border: 1px solid #1db4ff;
+    color: white;
+    cursor: none;
+}
+
+#DataTables_Table_0_wrapper div label,#DataTables_Table_1_wrapper div label,#DataTables_Table_2_wrapper div label,
+#DataTables_Table_3_wrapper div label,#DataTables_Table_4_wrapper div label,#DataTables_Table_5_wrapper div label{
+    float: left;
+    margin-bottom: 15px;
+}
+
+#DataTables_Table_0_filter ,#DataTables_Table_1_filter,#DataTables_Table_2_filter,
+#DataTables_Table_3_filter ,#DataTables_Table_4_filter,#DataTables_Table_5_filter{
+    float: right;
+    margin-bottom: 15px;
+}
+
+.ellipsis{
+    margin: 0 10px 0 15px !important;
+}
