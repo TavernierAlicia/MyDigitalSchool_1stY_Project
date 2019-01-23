@@ -1,2 +1,3 @@
 # MyDigitalSchool_1stY_Project
-A educational management system for schools.
+"SupOnline"
+A educational online management system for schools.
